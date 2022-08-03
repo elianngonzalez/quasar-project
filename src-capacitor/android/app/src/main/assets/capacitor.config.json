@@ -1,0 +1,7 @@
+{
+  "appId": "com.test.app",
+  "appName": "Quasar App",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
